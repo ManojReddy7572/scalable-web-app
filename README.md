@@ -1,6 +1,6 @@
 # Scalable Web App with Authentication & Dashboard
 
-## 🚀 Features
+## Features
 
 * User Registration & Login with JWT Authentication
 * Protected Dashboard
@@ -10,20 +10,20 @@
 * RESTful API using Express.js
 * React Frontend with Routing & Axios
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Frontend:** React.js, Axios, React Router
 **Backend:** Node.js, Express.js
 **Database:** MongoDB Atlas
 **Authentication:** JWT + bcrypt
 
-## 📂 Project Structure
+## Project Structure
 
 scalable-web-app/
 ├── backend/
 └── frontend/
 
-## ▶️ Run Locally
+##  Run Locally
 
 ### Backend
 
@@ -37,7 +37,7 @@ cd frontend
 npm install
 npm start
 
-## 🔒 Security
+##  Security
 
 * Password hashing with bcrypt
 * JWT-based authentication
